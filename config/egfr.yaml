@@ -72,9 +72,9 @@ datasets:
     data_dir: input
     edge_files:
       - phosphosite-irefindex13.0-uniprot.txt
-    label: tps-egfr
+    label: hiv-test
     node_files:
-      - tps-egfr-prizes.txt
+      - modified_prize_05.txt
     other_files: []
 reconstruction_settings:
   locations:
